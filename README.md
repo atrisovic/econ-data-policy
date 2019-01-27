@@ -6,6 +6,8 @@ Data policies in top economics journals and their focus on result replication/re
 
 "Authors of accepted papers that contain empirical work, simulations, or experimental work must provide, prior to publication, the **data, programs, and other details of the computations sufficient to permit replication**. These will be posted on the AEA website. The Editor should be notified at the time of submission if the data used in a paper are proprietary or if, for some other reason, the requirements above cannot be met."
 
+AEA hired a Data Editor to "maximize replicability and reproducibility of research findings published in AEA journals": [https://www.ilr.cornell.edu/labor-dynamics-institute/news/executive-director-vilhuber-named-aea-data-editor](https://www.ilr.cornell.edu/labor-dynamics-institute/news/executive-director-vilhuber-named-aea-data-editor)
+
 Ref: [https://www.aeaweb.org/journals/policies/data-availability-policy](https://www.aeaweb.org/journals/policies/data-availability-policy)
 
 ## Econometrica
