@@ -62,3 +62,9 @@ Ref: [https://www.mitpressjournals.org/journals/rest/sub](https://www.mitpressjo
 
 Ref: [https://ajps.org/ajps-replication-policy/](https://ajps.org/ajps-replication-policy/)
 
+## Journal of International Economics
+
+Elsevier journal; There does not appear to be a data policy for Journal of International Economics, but journal page links out to information about sharing research data.
+
+Ref: [https://www.elsevier.com/authors/author-services/research-data]
+Ref: [https://www.journals.elsevier.com/journal-of-international-economics]
