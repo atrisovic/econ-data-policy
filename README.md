@@ -62,3 +62,9 @@ Ref: [https://www.mitpressjournals.org/journals/rest/sub](https://www.mitpressjo
 
 Ref: [https://ajps.org/ajps-replication-policy/](https://ajps.org/ajps-replication-policy/)
 
+
+## Review of Economic Studies
+
+“Authors of accepted papers that contain empirical work, numerical simulations, or experimental work must in principle make available to the journal any data, programs, and details for the computations necessary for replication.  The submission of this material indicates that authors license users to download, copy, and modify it.  Such users must acknowledge all authors as the original creators and the Review of Economic Studies as the original publisher.  These will be posted alongside the article at Oxford Journals Review Archive. The Managing Editor should be notified at the time of submission if the above requirements cannot be met for any reason (see details below).  We reserve the right to refuse publication of papers whose authors do not comply with these requirements.”
+
+Ref: https://www.restud.com/submissions/
