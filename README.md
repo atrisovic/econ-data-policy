@@ -6,7 +6,7 @@ Data policies in top economics journals and their focus on result replication/re
 
 The ranking list of journals was obtained from: https://ideas.repec.org/top/top.journals.all.html
 
-## 1. Quarterly Journal of Economics
+## 1. The Quarterly Journal of Economics, Oxford University Press
 
 "In an effort to promote consistent standards and requirements among general-interest journals in the field of economics, the Quarterly Journal of Economics has adopted the American Economic Review data availability policy. We are grateful to the editors of the American Economic Review for their leadership in constructing this policy. 
 
@@ -16,13 +16,13 @@ After acceptance, authors are expected to post their data, programs, and suffici
 
 Ref: [https://academic.oup.com/qje/pages/Data\_Policy](https://academic.oup.com/qje/pages/Data\_Policy)
 
-## 2. Journal of Political Economy
+## 2. Journal of Political Economy, University of Chicago Press
 
 "In an effort to promote consistent standards and requirements among general-interest journals in the field of economics, the Journal of Political Economy has adopted the AER data availability policy. We are grateful to the editors of the American Economic Review for their leadership in constructing this policy."
 
 Ref: [https://www.journals.uchicago.edu/journals/jpe/datapolicy](https://www.journals.uchicago.edu/journals/jpe/datapolicy)
 
-## 3. American Economic Review
+## 3. American Economic Review, American Economic Association
 
 "Authors of accepted papers that contain empirical work, simulations, or experimental work must provide, prior to publication, the **data, programs, and other details of the computations sufficient to permit replication**. These will be posted on the AEA website. The Editor should be notified at the time of submission if the data used in a paper are proprietary or if, for some other reason, the requirements above cannot be met."
 
@@ -30,7 +30,7 @@ AEA hired a Data Editor to "maximize replicability and reproducibility of resear
 
 Ref: [https://www.aeaweb.org/journals/policies/data-availability-policy](https://www.aeaweb.org/journals/policies/data-availability-policy)
 
-## 4. Econometrica
+## 4. Econometrica, Econometric Society
 
 "Econometrica has the policy that **all empirical, experimental and simulation results must be replicable**. Therefore, authors of accepted papers must submit data sets, programs, and information on empirical analysis, experiments and simulations that are needed for replication and some limited sensitivity analysis." 
 
@@ -38,27 +38,35 @@ Ref: [https://www.econometricsociety.org/publications/econometrica/information-a
 
 ## 5. Journal of Economic Literature, American Economic Association
 
+"It is the policy of the American Economic Association to **publish papers only if the data used in the analysis are clearly and precisely documented and are readily available** to any researcher for purposes of replication."
+
+Ref: https://www.aeaweb.org/journals/policies/data-availability-policy
+
 ## 6. Journal of Financial Economics, Elsevier
 
-## 7. Journal of Finance, American Finance Association
+"We expect authors to cooperate by providing code if a controversy arises where “replicating authors” cannot replicate the published work and the results of the replication attempt make the conclusions of the published paper invalid.  If the two sets of authors cannot resolve their disagreements, then the replicating authors can submit their paper for review at the JFE, along with all relevant correspondence between the replicating authors and the original authors. Much like our current dispute procedure, an anonymized version of this correspondence would be provided to the person who eventually referees the “replication paper.”  Of course, the standard used by the editor in making a decision about publication is whether the replication paper makes an important contribution to our understanding of financial economics.
 
+We continue to **encourage authors** to provide code and data related to their published paper to be posted on the **JFE web page**, since we believe that this increases interest in the published research."
+
+Ref: http://jfe.rochester.edu/replication.htm
+
+## 7. Journal of Finance, American Finance Association
 ## 8. Review of Economic Studies, Oxford University Press
 
-"Authors of accepted papers that contain empirical work, numerical simulations, or experimental work must in principle make available to the journal any data, programs, and details for the computations necessary for replication.  The submission of this material indicates that authors license users to download, copy, and modify it.  Such users must acknowledge all authors as the original creators and the Review of Economic Studies as the original publisher.  These will be posted alongside the article at Oxford Journals Review Archive. The Managing Editor should be notified at the time of submission if the above requirements cannot be met for any reason (see details below).  We reserve the right to refuse publication of papers whose authors do not comply with these requirements."
+"Authors of accepted papers that contain empirical work, numerical simulations, or experimental work **must in principle** make available to the journal any data, programs, and details for the computations necessary for replication.  The submission of this material indicates that authors license users to download, copy, and modify it.  Such users must acknowledge all authors as the original creators and the Review of Economic Studies as the original publisher.  These will be posted alongside the article at Oxford Journals Review Archive. The Managing Editor should be notified at the time of submission if the above requirements cannot be met for any reason (see details below).  We reserve the right to refuse publication of papers whose authors do not comply with these requirements."
 
 Ref: [https://www.restud.com/submissions/](https://www.restud.com/submissions/)
 
 ## 9. Journal of Economic Growth, Springer
 
-## 10. Journal of Monetary Economics, Elsevier 
+Doesn't seem to have a data policy.
 
-## 11. Economic Policy, CEPR; CES; MSH
+## 10. Journal of Monetary Economics, Elsevier
+## 11. Journal of Economic Perspectives, American Economic Association
 
-"EP has the policy that all empirical, experimental and simulation results should, where possible, be accessible and replicable. **Authors of accepted papers are required to submit data sets, programs, a full list of data sources, and information on empirical analysis, experiments and simulations that are needed for replication. Replication will be carried out by the journal, and the material will be published alongside the article on the EP website.**
+It is the policy of the American Economic Association to publish papers **only if the data used in the analysis are clearly and precisely documented and are readily available** to any researcher for purposes of replication.
 
-Authors who are unable to comply with this policy (e.g. due to the use of proprietary data or because individuals are identifiable from the data) must provide a reason to the EP editors, and they must provide information about how the data can be accessed and sufficient information for the results to be replicated by others who obtain access to the data. The editors reserve the right to refuse to publish articles where the data, programs etc are not provided and where, in their view, there is no justifiable reason for not making them available."
-
-Ref: https://academic.oup.com/economicpolicy/pages/General_Instructions
+Ref: https://www.aeaweb.org/journals/policies/data-availability-policy
 
 ## 12. Review of Financial Studies, Society for Financial Studies
 
@@ -74,6 +82,7 @@ In order to encourage this activity, we will make the following changes in the e
 
 Ref: http://rfssfs.org/voluntary-datacode-sharing-process/
 
+## 13. Journal of Econometrics, Elsevier
 ## 14. The Review of Economics and Statistics, MIT Press
 
 "The Review of Economics and Statistics is implementing a strict data and computer code availability policy for empirical papers. Authors of papers accepted for publication will be required to
@@ -86,9 +95,9 @@ Ref: http://rfssfs.org/voluntary-datacode-sharing-process/
 
 Ref: [https://www.mitpressjournals.org/journals/rest/sub](https://www.mitpressjournals.org/journals/rest/sub)
 
-## 15. Journal of International Economics
+## 15. Journal of International Economics, Elsevier
 
-Elsevier journal; There does not appear to be a data policy for Journal of International Economics, but journal page links out to information about sharing research data.
+There does not appear to be a data policy for Journal of International Economics, but journal page links out to information about sharing research data.
 
 Ref: https://www.elsevier.com/authors/author-services/research-data
 
@@ -100,15 +109,31 @@ Ref: https://www.journals.elsevier.com/journal-of-international-economics
 
 Ref: [https://www.journals.uchicago.edu/journals/jole/data-policy](https://www.journals.uchicago.edu/journals/jole/data-policy)
 
-## 17. American Economic Journal: Macroeconomics, American Economic Association 
+## 17. American Economic Journal: Macroeconomics, American Economic Association
 
-## 18. RAND Journal of Economics, RAND Corporation
+It is the policy of the American Economic Association to publish papers **only if the data used in the analysis are clearly and precisely documented and are readily available** to any researcher for purposes of replication.
+
+Ref: https://www.aeaweb.org/journals/policies/data-availability-policy
+
+## 18. Journal of Public Economics, Elsevier
+## 19. Journal of Development Economics, Elsevier
+## 20. Economic Journal, Royal Economic Society
+## 21. Brookings Papers on Economic Activity, Economic Studies Program, The Brookings Institution
+## 22. RAND Journal of Economics, RAND Corporation
 
 "Supporting information is **not essential** to the article but provides greater depth and background and may include tables, figures, videos, datasets, etc. This material can be submitted with your manuscript, and will appear online, without editing or typesetting. Guidelines on how to prepare this material and which formats and files sizes are acceptable. Please note that the provision of supporting information is not encouraged as a general rule. It will be assessed critically by reviewers and editors and may not be accepted."
 
 Ref: https://www.rje.org/submissions.html
 
-## 19. Journal of the European Economic Association
+## 23. American Economic Journal: Applied Economics, American Economic Association
+
+It is the policy of the American Economic Association to publish papers **only if the data used in the analysis are clearly and precisely documented and are readily available** to any researcher for purposes of replication.
+
+Ref: https://www.aeaweb.org/journals/policies/data-availability-policy
+
+## 24. European Economic Review, Elsevier
+## 25. Journal of Banking & Finance, Elsevier
+## 26. Journal of the European Economic Association, European Economic Association
 
 "Please read this section carefully as we are unable to enter submissions that do not comply with our policy on data into the editorial process. 
 
@@ -139,7 +164,19 @@ As a matter of principle, we discourage papers that rely on completely proprieta
 
 Ref: https://www.eeassoc.org/index.php?site=JEEA&page=42
 
-## 28. World Bank Economic Review
+## 27. Renewable and Sustainable Energy Reviews, Elsevier
+## 28. Journal of Economic Theory, Elsevier
+## 29. Economic Policy, CEPR; CES; MSH
+
+"EP has the policy that all empirical, experimental and simulation results should, where possible, be accessible and replicable. **Authors of accepted papers are required to submit data sets, programs, a full list of data sources, and information on empirical analysis, experiments and simulations that are needed for replication. Replication will be carried out by the journal, and the material will be published alongside the article on the EP website.**
+
+Authors who are unable to comply with this policy (e.g. due to the use of proprietary data or because individuals are identifiable from the data) must provide a reason to the EP editors, and they must provide information about how the data can be accessed and sufficient information for the results to be replicated by others who obtain access to the data. The editors reserve the right to refuse to publish articles where the data, programs etc are not provided and where, in their view, there is no justifiable reason for not making them available."
+
+Ref: https://academic.oup.com/economicpolicy/pages/General_Instructions
+
+## 30. Journal of Human Resources, University of Wisconsin Press
+
+## World Bank Economic Review
 
 "The World Bank Economic Review **requires that accepted papers include sufficient information on data sources and methods** that work can be replicated by other researchers. This requirement is normally met through online posting on the journal website of a file that includes archival summary, data and relevant computational files. If data are proprietary or the requirement otherwise cannot be met, this should be noted in a cover letter to the editor on submission."
 
@@ -156,3 +193,5 @@ Ref: [https://ajps.org/ajps-replication-policy/](https://ajps.org/ajps-replicati
 Other interesting websites: http://replication.uni-goettingen.de/wiki/index.php/Journal_publication_policies
 
 http://www.edawax.de/wp-content/uploads/2016/02/Data-Policies_mit-Links.pdf
+
+Same survey 5 years ago: https://www.econjobrumors.com/topic/master-list-of-journal-data-archives-and-policies
