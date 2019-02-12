@@ -51,6 +51,10 @@ We continue to **encourage authors** to provide code and data related to their p
 Ref: http://jfe.rochester.edu/replication.htm
 
 ## 7. Journal of Finance, American Finance Association
+
+No data policy specified in Journal of Finance Submission Guidelines and General Policy document:
+https://cdn.ymaws.com/www.afajof.org/resource/resmgr/files/Submission_docs/JF_Submission_Guidelines-Feb.pdf
+
 ## 8. Review of Economic Studies, Oxford University Press
 
 "Authors of accepted papers that contain empirical work, numerical simulations, or experimental work **must in principle** make available to the journal any data, programs, and details for the computations necessary for replication.  The submission of this material indicates that authors license users to download, copy, and modify it.  Such users must acknowledge all authors as the original creators and the Review of Economic Studies as the original publisher.  These will be posted alongside the article at Oxford Journals Review Archive. The Managing Editor should be notified at the time of submission if the above requirements cannot be met for any reason (see details below).  We reserve the right to refuse publication of papers whose authors do not comply with these requirements."
@@ -62,6 +66,12 @@ Ref: [https://www.restud.com/submissions/](https://www.restud.com/submissions/)
 Doesn't seem to have a data policy.
 
 ## 10. Journal of Monetary Economics, Elsevier
+
+There does not appear to be a data policy for Journal of International Economics, but journal page links out to information from Elsevier about sharing research data.
+
+Ref: https://www.elsevier.com/authors/author-services/research-data
+Ref: https://www.journals.elsevier.com/journal-of-monetary-economics
+
 ## 11. Journal of Economic Perspectives, American Economic Association
 
 It is the policy of the American Economic Association to publish papers **only if the data used in the analysis are clearly and precisely documented and are readily available** to any researcher for purposes of replication.
@@ -97,7 +107,7 @@ Ref: [https://www.mitpressjournals.org/journals/rest/sub](https://www.mitpressjo
 
 ## 15. Journal of International Economics, Elsevier
 
-There does not appear to be a data policy for Journal of International Economics, but journal page links out to information about sharing research data.
+There does not appear to be a data policy for Journal of International Economics, but journal page links out to information from Elsevier about sharing research data.
 
 Ref: https://www.elsevier.com/authors/author-services/research-data
 
