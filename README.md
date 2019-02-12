@@ -175,6 +175,13 @@ As a matter of principle, we discourage papers that rely on completely proprieta
 Ref: https://www.eeassoc.org/index.php?site=JEEA&page=42
 
 ## 27. Renewable and Sustainable Energy Reviews, Elsevier
+
+This journal **encourages and enables you to share data that supports your research publication where appropriate**, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project.
+
+Below are a number of ways in which you can associate data with your article or make a statement about the availability of your data when submitting your manuscript. If you are sharing data in one of these ways, you are encouraged to cite the data in your manuscript and reference list. Please refer to the "References" section for more information about data citation. For more information on depositing, sharing and using research data and other relevant research materials, visit the research data page.
+
+Ref: https://www.elsevier.com/wps/find/journaldescription.cws_home/600126?generatepdf=true
+
 ## 28. Journal of Economic Theory, Elsevier
 ## 29. Economic Policy, CEPR; CES; MSH
 
