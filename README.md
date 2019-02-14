@@ -16,11 +16,15 @@ After acceptance, authors are expected to post their data, programs, and suffici
 
 Ref: [https://academic.oup.com/qje/pages/Data\_Policy](https://academic.oup.com/qje/pages/Data\_Policy)
 
+**5 years ago: NO policy or archive**
+
 ## 2. Journal of Political Economy, University of Chicago Press
 
 "In an effort to promote consistent standards and requirements among general-interest journals in the field of economics, the Journal of Political Economy has adopted the AER data availability policy. We are grateful to the editors of the American Economic Review for their leadership in constructing this policy."
 
 Ref: [https://www.journals.uchicago.edu/journals/jpe/datapolicy](https://www.journals.uchicago.edu/journals/jpe/datapolicy)
+
+**5 years ago: strict policy, supplemental materials available alongside articles at JSTOR**
 
 ## 3. American Economic Review, American Economic Association
 
@@ -36,11 +40,15 @@ Ref: [https://www.aeaweb.org/journals/policies/data-availability-policy](https:/
 
 Ref: [https://www.econometricsociety.org/publications/econometrica/information-authors/instructions-submitting-articles](https://www.econometricsociety.org/publications/econometrica/information-authors/instructions-submitting-articles)
 
+**5 years ago: strict policy, available at Ecta site here: http://www.econometricsociety.org/suppmatlist.asp**
+
 ## 5. Journal of Economic Literature, American Economic Association
 
 "It is the policy of the American Economic Association to **publish papers only if the data used in the analysis are clearly and precisely documented and are readily available** to any researcher for purposes of replication."
 
 Ref: https://www.aeaweb.org/journals/policies/data-availability-policy
+
+**5 years ago: NO policy or archive**
 
 ## 6. Journal of Financial Economics, Elsevier
 
@@ -61,9 +69,13 @@ https://cdn.ymaws.com/www.afajof.org/resource/resmgr/files/Submission_docs/JF_Su
 
 Ref: [https://www.restud.com/submissions/](https://www.restud.com/submissions/)
 
+**5 years ago: strict policy, supplemental materials available alongside articles at Oxford Journals site**
+
 ## 9. Journal of Economic Growth, Springer
 
 Doesn't seem to have a data policy.
+
+**5 years ago: NO policy or archive**
 
 ## 10. Journal of Monetary Economics, Elsevier
 
@@ -72,11 +84,15 @@ There does not appear to be a data policy for Journal of International Economics
 Ref: https://www.elsevier.com/authors/author-services/research-data
 Ref: https://www.journals.elsevier.com/journal-of-monetary-economics
 
+**5 years ago: NO policy or archive**
+
 ## 11. Journal of Economic Perspectives, American Economic Association
 
 It is the policy of the American Economic Association to publish papers **only if the data used in the analysis are clearly and precisely documented and are readily available** to any researcher for purposes of replication.
 
 Ref: https://www.aeaweb.org/journals/policies/data-availability-policy
+
+**5 years ago: NO policy or archive**
 
 ## 12. Review of Financial Studies, Society for Financial Studies
 
@@ -93,6 +109,9 @@ In order to encourage this activity, we will make the following changes in the e
 Ref: http://rfssfs.org/voluntary-datacode-sharing-process/
 
 ## 13. Journal of Econometrics, Elsevier
+
+**5 years ago: NO policy or archive**
+
 ## 14. The Review of Economics and Statistics, MIT Press
 
 "The Review of Economics and Statistics is implementing a strict data and computer code availability policy for empirical papers. Authors of papers accepted for publication will be required to
@@ -105,6 +124,8 @@ Ref: http://rfssfs.org/voluntary-datacode-sharing-process/
 
 Ref: [https://www.mitpressjournals.org/journals/rest/sub](https://www.mitpressjournals.org/journals/rest/sub)
 
+**5 years ago: strict policy, available at http://dvn.iq.harvard.edu/dvn/dv/restat**
+
 ## 15. Journal of International Economics, Elsevier
 
 There does not appear to be a data policy for Journal of International Economics, but journal page links out to information from Elsevier about sharing research data.
@@ -113,11 +134,15 @@ Ref: https://www.elsevier.com/authors/author-services/research-data
 
 Ref: https://www.journals.elsevier.com/journal-of-international-economics
 
+**5 years ago: NO policy or archive**, something about "on request to authors"
+
 ## 16. Journal of Labor Economics, University of Chicago Press
 
 "In an effort to promote consistent standards and requirements among general-interest journals in the field of economics, the Journal of Labor Economics has adopted the AER data availability policy. We are grateful to the editors of the American Economic Review for their leadership in constructing this policy. JOLE adopted this policy in February 2009; it applies to all articles submitted after that date."
 
 Ref: [https://www.journals.uchicago.edu/journals/jole/data-policy](https://www.journals.uchicago.edu/journals/jole/data-policy)
+
+**5 years ago: claims AER policy, available alongside articles at JSTOR**
 
 ## 17. American Economic Journal: Macroeconomics, American Economic Association
 
@@ -125,8 +150,16 @@ It is the policy of the American Economic Association to publish papers **only i
 
 Ref: https://www.aeaweb.org/journals/policies/data-availability-policy
 
+**5 years ago: strict policy, available on AEA website**
+
 ## 18. Journal of Public Economics, Elsevier
+
+**5 years ago: NO policy or archive**
+
 ## 19. Journal of Development Economics, Elsevier
+
+**5 years ago: NO policy or archive**
+
 ## 20. Economic Journal, Royal Economic Society
 ## 21. Brookings Papers on Economic Activity, Economic Studies Program, The Brookings Institution
 ## 22. RAND Journal of Economics, RAND Corporation
@@ -135,11 +168,15 @@ Ref: https://www.aeaweb.org/journals/policies/data-availability-policy
 
 Ref: https://www.rje.org/submissions.html
 
+**5 years ago: NO policy or archive**
+
 ## 23. American Economic Journal: Applied Economics, American Economic Association
 
 It is the policy of the American Economic Association to publish papers **only if the data used in the analysis are clearly and precisely documented and are readily available** to any researcher for purposes of replication.
 
 Ref: https://www.aeaweb.org/journals/policies/data-availability-policy
+
+**5 years ago: strict policy, available on AEA website**
 
 ## 24. European Economic Review, Elsevier
 ## 25. Journal of Banking & Finance, Elsevier
@@ -174,6 +211,8 @@ As a matter of principle, we discourage papers that rely on completely proprieta
 
 Ref: https://www.eeassoc.org/index.php?site=JEEA&page=42
 
+**5 years ago: uses copy of ReStud policy, good but incomplete data availability alongside articles on Wiley site**
+
 ## 27. Renewable and Sustainable Energy Reviews, Elsevier
 
 This journal **encourages and enables you to share data that supports your research publication where appropriate**, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project.
@@ -183,6 +222,9 @@ Below are a number of ways in which you can associate data with your article or 
 Ref: https://www.elsevier.com/wps/find/journaldescription.cws_home/600126?generatepdf=true
 
 ## 28. Journal of Economic Theory, Elsevier
+
+**5 years ago: NO policy**
+
 ## 29. Economic Policy, CEPR; CES; MSH
 
 "EP has the policy that all empirical, experimental and simulation results should, where possible, be accessible and replicable. **Authors of accepted papers are required to submit data sets, programs, a full list of data sources, and information on empirical analysis, experiments and simulations that are needed for replication. Replication will be carried out by the journal, and the material will be published alongside the article on the EP website.**
@@ -192,6 +234,8 @@ Authors who are unable to comply with this policy (e.g. due to the use of propri
 Ref: https://academic.oup.com/economicpolicy/pages/General_Instructions
 
 ## 30. Journal of Human Resources, University of Wisconsin Press
+
+**5 years ago: shady policy**
 
 ## World Bank Economic Review
 
@@ -205,10 +249,26 @@ Ref: https://academic.oup.com/wber/pages/Author_Guidelines
 
 Ref: [https://ajps.org/ajps-replication-policy/](https://ajps.org/ajps-replication-policy/)
 
+## International Economic Review
 
+**5 years ago: weaker version of AER policy, but no replication files can be found**
 
-Other interesting websites: http://replication.uni-goettingen.de/wiki/index.php/Journal_publication_policies
+## Review of Economic Dyanmics
+
+**5 years ago: nearly complete archive recently: http://www.economicdynamics.org/RED15.htm**
+
+## Journal of Applied Econometrics no
+
+**5 years ago: strict policy, available at http://econ.queensu.ca/jae/**
+
+## Theoretical Economics 
+
+## Games and Economic Behavior
+
+# Other resources
+
+http://replication.uni-goettingen.de/wiki/index.php/Journal_publication_policies
 
 http://www.edawax.de/wp-content/uploads/2016/02/Data-Policies_mit-Links.pdf
 
-Same survey 5 years ago: https://www.econjobrumors.com/topic/master-list-of-journal-data-archives-and-policies
+All information of data policy survey from 5 years ago on this page were copied from: https://www.econjobrumors.com/topic/master-list-of-journal-data-archives-and-policies
