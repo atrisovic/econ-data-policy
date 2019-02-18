@@ -179,7 +179,22 @@ Ref: https://www.aeaweb.org/journals/policies/data-availability-policy
 **5 years ago: strict policy, available on AEA website**
 
 ## 24. European Economic Review, Elsevier
+
+Yes, Journal has a "Mandatory Replication Policy" that states: 
+
+"The European Economic Review’s will in general publish papers only if the data used in the analysis are clearly and precisely documented and are readily available to any researcher for purposes of replication. Authors of accepted papers that contain empirical work, simulations, or experimental work must provide to the EER, prior to publication, the data, programs, and other details of the computations sufficient to permit replication. These will be posted on the EER Web site. If the data used in a paper are proprietary or if, for some other reason, the requirements above cannot be met, the editors should be notified at the time of submission. It will be at the editors’ discretion whether the paper can then be reviewed. Exceptions will not be considered later in the review and publication process. Papers that do not submit this requested data will not enter the reviewing process."
+
+Ref: https://www.journals.elsevier.com/european-economic-review/policies/mandatory-replication-policy
+
 ## 25. Journal of Banking & Finance, Elsevier
+
+Journal recommends data sharing: "This journal encourages and enables you to share data that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project."
+
+Suggested ways to share include: linking to data repository in metadata; using Mendeley Data; developing a "Data in Brief" (data article); including a data statement.
+
+Ref: https://www.elsevier.com/journals/journal-of-banking-and-finance/0378-4266/guide-for-authors
+Ref on data statement: https://www.elsevier.com/authors/author-services/research-data/data-statement
+
 ## 26. Journal of the European Economic Association, European Economic Association
 
 "Please read this section carefully as we are unable to enter submissions that do not comply with our policy on data into the editorial process. 
@@ -235,6 +250,22 @@ Ref: https://academic.oup.com/economicpolicy/pages/General_Instructions
 
 ## 30. Journal of Human Resources, University of Wisconsin Press
 
+Yes, Policy on Replication and Data Availability most recently revised in August 2018. 
+
+Manuscripts submitted to the JHR will be judged in part by whether they have reconciled their results with already published research on the same topic. In cases where a past study has obtained different results for reasons that are not obvious on an a priori basis, authors may be required to perform some comparative estimation with their own data set. In addition, the JHR will continue its existing policy of requiring authors to present the results of sensitivity tests.
+
+Authors of accepted manuscripts will be asked to preserve the data used in their analysis and to make the data available online in a well-curated repository (for example, the Inter-University Consortium for Political and Social Research (ICPSR), The Dataverse Project, or one’s institutional repository) in the public domain [CC0 1.0 Universal (CC0 1.0) license]. Authors are required to provide their archive plans as a footnote with the submitted manuscript, including a persistent link (preferably a DOI link) to the data set. Authors are responsible for making available complete replication materials, including the data and code, models, and other materials necessary for replication, along with a read-me file to assist others in using the data.
+
+If the data are publicly available or, on the other hand, an exemption has been requested, authors should provide any supporting replication materials that can be supplied to assist researchers with replication, to be published with the manuscript as an Online Appendix.
+
+Authors wishing to request an exemption from the data availability requirement should notify the editors at the time of manuscript submission; otherwise, authors will be assumed to accept the requirement. The use of proprietary data sets, for example, may prompt an exemption request. The JHR may grant a waiver of the replication policy if the data meet these criteria: (i) there is any method at all by which other researchers may obtain the data, and (ii) the authors commit to providing guidance about obtaining the data. In requesting a waiver, please provide a brief explanation of why the waiver is required and how you meet these criteria.
+
+Authors who wish clarification of any aspect of this policy statement may write to the editor.
+
+Data Availability Statement
+Authors must include a statement on the title page of the manuscript in the author affiliations footnote indicating data availability, providing a persistent (preferably DOI) link to the data in a repository. If the JHR granted a waiver, add a waiver statement describing why the data are not available and whether they can be obtained through any means."
+
+Ref: https://uwpress.wisc.edu/journals/journals/jhr_replication.html
 **5 years ago: shady policy**
 
 ## World Bank Economic Review
@@ -250,6 +281,16 @@ Ref: https://academic.oup.com/wber/pages/Author_Guidelines
 Ref: [https://ajps.org/ajps-replication-policy/](https://ajps.org/ajps-replication-policy/)
 
 ## International Economic Review
+
+"To promote consistent standards and requirements among general-interest journals in the field of economics, the International Economic Review has adopted the AER data availability policy. We are grateful to the editors of the American Economic Review for constructing this policy.
+
+Data Availability Policy
+
+It is the policy of the IER to publish papers only if the data used in the analysis are clearly and precisely documented and are readily available to any researcher for purposes of replication. Authors of accepted papers that contain empirical work, simulations, or experimental work must provide to the Review, prior to publication, the data, programs, and other details of the computations sufficient to permit replication. These will be posted on the IER web site. The Editor should be notified at the time of submission if the data used in a paper are proprietary or if, for some other reason, the requirements above cannot be met.
+
+After acceptance, authors are expected to send their data, programs, and sufficient details to permit replication, in electronic form, to the IER office." 
+
+REf: https://economics.sas.upenn.edu/ier/submissions/data-availability-policy
 
 **5 years ago: weaker version of AER policy, but no replication files can be found**
 
