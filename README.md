@@ -284,6 +284,8 @@ This journal **encourages and enables you to share data that supports your resea
 
 Below are a number of ways in which you can associate data with your article or make a statement about the availability of your data when submitting your manuscript. If you are sharing data in one of these ways, you are encouraged to cite the data in your manuscript and reference list. Please refer to the "References" section for more information about data citation. For more information on depositing, sharing and using research data and other relevant research materials, visit the research data page.
 
+Elsevier highlights ways to make data available, including linking in metadata to another repository, using Mendeley Data, creating a "Data Brief" (a data paper), or adding a data statement.
+
 Ref: https://www.elsevier.com/wps/find/journaldescription.cws_home/600126?generatepdf=true
 
 ## 28. Journal of Economic Theory, Elsevier
