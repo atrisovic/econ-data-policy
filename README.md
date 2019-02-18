@@ -192,6 +192,11 @@ Ref: https://www.journals.elsevier.com/journal-of-development-economics/policies
 
 The Economic Journal **requires authors of empirical and experimental papers to provide documentation of how their results were obtained in sufficient detail and accuracy to allow their results to be replicated**. When you submit a paper for consideration, you will be asked to confirm how you will comply with this policy. It is essential that you request data exemption at the point of submission if you are using proprietary data or any other restrictions on supplying the data.
 
+...
+
+This information must be submitted to the EJ Editorial office (ej@res.org.uk) if the paper is accepted for publication and will be posted on the website alongside the paper on The Economic Journal website. The Editor may also request additional information during the refereeing process.
+
+
 Ref: https://academic.oup.com/ej/pages/General_Instructions#data
 
 ## 21. Brookings Papers on Economic Activity, Economic Studies Program, The Brookings Institution
@@ -209,8 +214,7 @@ The materials delivered should include the data sets and programs used to run th
 Ref: https://www.brookings.edu/bpea-for-authors/
 
 ## 22. RAND Journal of Economics, RAND Corporation
-
-"Supporting information is **not essential** to the article but provides greater depth and background and may include tables, figures, videos, datasets, etc. This material can be submitted with your manuscript, and will appear online, without editing or typesetting. Guidelines on how to prepare this material and which formats and files sizes are acceptable. Please note that the provision of supporting information is not encouraged as a general rule. It will be assessed critically by reviewers and editors and may not be accepted."
+No data policy
 
 Ref: https://www.rje.org/submissions.html
 
