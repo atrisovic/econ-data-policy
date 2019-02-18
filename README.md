@@ -73,7 +73,9 @@ Ref: [https://www.restud.com/submissions/](https://www.restud.com/submissions/)
 
 ## 9. Journal of Economic Growth, Springer
 
-Doesn't seem to have a data policy.
+"Upon request authors should be prepared to send relevant documentation or data in order to verify the validity of the results presented. This could be in the form of raw data, samples, records, etc. Sensitive information in the form of confidential or proprietary data is excluded."
+
+Ref: listed under Ethical Responsibilities for Authors in Instructions: https://www.springer.com/economics/journal/10887
 
 **5 years ago: NO policy or archive**
 
