@@ -353,7 +353,7 @@ Ref: https://economics.sas.upenn.edu/ier/submissions/data-availability-policy
 
 **5 years ago: weaker version of AER policy, but no replication files can be found**
 
-## Review of Economic Dyanmics, Society for Economics Dynamics journal
+## 34. Review of Economic Dyanmics, Society for Economics Dynamics journal
 
 "Starting from January 1, 2008, the Review of Economic Dynamics implements a new policy regarding the availability of data and computer code for published papers.
 
@@ -367,7 +367,7 @@ Ref: https://www.economicdynamics.org/availability-of-data-and-computer-code-for
 
 **5 years ago: nearly complete archive recently: http://www.economicdynamics.org/RED15.htm**
 
-## Journal of Applied Econometrics, Wiley
+## 35. Journal of Applied Econometrics, Wiley
 
 "JAE Data Archive: Authors of accepted papers are required to deposit in electronic form a complete set of data used onto the Journal's Data Archive, unless they are confidential. In cases where there are restrictions on the dissemination of the data, the responsibility of obtaining the required permission to use the data rests with the interested investigator and not with the author.
 
@@ -377,13 +377,13 @@ Ref: https://onlinelibrary.wiley.com/page/journal/10991255/homepage/forauthors.h
 
 **5 years ago: strict policy, available at http://econ.queensu.ca/jae/**
 
-## Theoretical Economics, Econometric Society journal
+## 36. Theoretical Economics, Econometric Society journal
 
 No data policy 
 
 Ref: https://econtheory.org/policies.php
 
-## Games and Economic Behavior, Elsevier
+## 37. Games and Economic Behavior, Elsevier
 
 Elsevier recommends data sharing, but there is no requirement for this journal. 
 "This journal encourages and enables you to share data that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project." Publisher highlights ways to make data available, including linking in metadata to another repository, using Mendeley Data, creating a "Data Brief" (a data paper), or adding a data statement.
