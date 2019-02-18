@@ -172,7 +172,9 @@ Ref: https://www.aeaweb.org/journals/policies/data-availability-policy
 
 ## 18. Journal of Public Economics, Elsevier
 
-This journal **encourages and enables you to share data** that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project.
+"This journal **encourages and enables you to share data** that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project."
+
+Elsevier highlights ways to make data available, including linking in metadata to another repository, using Mendeley Data, creating a "Data Brief" (a data paper), or adding a data statement.
 
 Ref: https://www.elsevier.com/journals/journal-of-public-economics/00472727/guide-for-authors
 
