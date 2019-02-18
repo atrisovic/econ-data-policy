@@ -110,6 +110,22 @@ Ref: http://rfssfs.org/voluntary-datacode-sharing-process/
 
 ## 13. Journal of Econometrics, Elsevier
 
+**PUBLICATION POLICIES**
+
+1. Upon acceptance of an article, authors will be asked to complete a 'Journal Publishing Agreement' (see D.5 below for more information). 
+
+2. Authors are expected to submit replication code and data files once a paper is conditionally accepted. In case when proprietary data are used, replication code should be made available so that another researcher with the same data can reproduce the results. 
+
+...
+
+** Research data**
+
+This journal encourages and enables you to share data that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project.
+
+Below are a number of ways in which you can associate data with your article or make a statement about the availability of your data when submitting your manuscript. If you are sharing data in one of these ways, you are encouraged to cite the data in your manuscript and reference list. Please refer to the "References" section for more information about data citation. For more information on depositing, sharing and using research data and other relevant research materials, visit the research data page.
+
+Ref: https://www.elsevier.com/journals/journal-of-econometrics/0304-4076/guide-for-authors
+
 **5 years ago: NO policy or archive**
 
 ## 14. The Review of Economics and Statistics, MIT Press
@@ -154,14 +170,40 @@ Ref: https://www.aeaweb.org/journals/policies/data-availability-policy
 
 ## 18. Journal of Public Economics, Elsevier
 
+This journal **encourages and enables you to share data** that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project.
+
+Ref: https://www.elsevier.com/journals/journal-of-public-economics/00472727/guide-for-authors
+
 **5 years ago: NO policy or archive**
 
 ## 19. Journal of Development Economics, Elsevier
 
+The Journal of Development Economics will in general publish papers **only if** the data used in the analysis are clearly and precisely documented and are readily available to any researcher for purposes of replication. Authors of accepted papers that contain empirical work, simulations, or experimental work must provide to the JDE, prior to publication, the data, programs, and other details of the computations sufficient to permit replication. These will be posted on the JDE Web site alongside the article. Authors may be asked to submit the data, programs, and other details of the computations sufficient to permit replication at the review stage, if requested by the referees or the Editor. If the data used in a paper are proprietary or if, for some other reason, the requirements above cannot be met, the editors should be notified at the time of submission. It will be at the editors’ discretion whether the paper can then be reviewed. Exceptions will not be considered later in the review and publication process.
+
+Ref: https://www.journals.elsevier.com/journal-of-development-economics/policies/mandatory-replication-policy-devec
+
 **5 years ago: NO policy or archive**
 
 ## 20. Economic Journal, Royal Economic Society
+
+The Economic Journal **requires authors of empirical and experimental papers to provide documentation of how their results were obtained in sufficient detail and accuracy to allow their results to be replicated**. When you submit a paper for consideration, you will be asked to confirm how you will comply with this policy. It is essential that you request data exemption at the point of submission if you are using proprietary data or any other restrictions on supplying the data.
+
+Ref: https://academic.oup.com/ej/pages/General_Instructions#data
+
 ## 21. Brookings Papers on Economic Activity, Economic Studies Program, The Brookings Institution
+
+The Brookings Papers on Economic Activity has adopted the policy on data availability being used by the American Economic Review and Journal of Political Economy. Specifically:
+
+General Policy
+
+It is the policy of BPEA to publish papers **only if the data used in the analysis are clearly and precisely documented and are readily available to any researcher for purposes of replication**. Authors of papers that contain empirical work, simulations, or experimental results must provide to BPEA, in electronic form prior to publication, the data, programs, and other details of the computations sufficient to permit replication. These materials will be posted on the BPEA web site. The editors should be notified in advance if the data used in a paper are proprietary or if this information cannot be provided for some other reason. Manuscripts not conforming to this data policy will not be published.
+
+Specific Policy for Econometric and Simulation Papers
+
+The materials delivered should include the data sets and programs used to run the final models, plus a description of how previous intermediate data sets and programs were employed to create the final data sets. Authors are invited to submit these intermediate data files and programs as an option; if they are not provided, authors must fully cooperate with investigators seeking to conduct a replication who request them. The data files and programs can be provided in any format using any statistical package or software. However, the programs must run without crashing on any computer with the correct software. Authors must provide a Readme PDF file listing all included files and documenting the purpose and format of each file provided, as well as instructing a user on how replication can be conducted. If a request for an exemption based on proprietary data is made, authors should inform the editors if the data can be accessed or obtained in some other way by independent researchers for purposes of replication. Authors are also asked to provide information on how the proprietary data can be obtained by others in their Readme PDF file. A copy of the programs used to create the final results is still required.
+
+Ref: https://www.brookings.edu/bpea-for-authors/
+
 ## 22. RAND Journal of Economics, RAND Corporation
 
 "Supporting information is **not essential** to the article but provides greater depth and background and may include tables, figures, videos, datasets, etc. This material can be submitted with your manuscript, and will appear online, without editing or typesetting. Guidelines on how to prepare this material and which formats and files sizes are acceptable. Please note that the provision of supporting information is not encouraged as a general rule. It will be assessed critically by reviewers and editors and may not be accepted."
