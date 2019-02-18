@@ -146,7 +146,7 @@ Ref: [https://www.mitpressjournals.org/journals/rest/sub](https://www.mitpressjo
 
 ## 15. Journal of International Economics, Elsevier
 
-There does not appear to be a data policy for Journal of International Economics, but journal page links out to information from Elsevier about sharing research data.
+Elsevier recommendations for data sharing. Publisher highlights ways to make data available, including linking in metadata to another repository, using Mendeley Data, creating a "Data Brief" (a data paper), or adding a data statement.
 
 Ref: https://www.elsevier.com/authors/author-services/research-data
 
