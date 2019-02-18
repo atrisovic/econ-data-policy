@@ -81,7 +81,7 @@ Ref: listed under Ethical Responsibilities for Authors in Instructions: https://
 
 ## 10. Journal of Monetary Economics, Elsevier
 
-There does not appear to be a data policy for Journal of International Economics, but journal page links out to information from Elsevier about sharing research data.
+Elsevier recommends data sharing, but there is no requirement for this journal. "This journal encourages and enables you to share data that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project." Publisher highlights ways to make data available, including linking in metadata to another repository, using Mendeley Data, creating a "Data Brief" (a data paper), or adding a data statement.
 
 Ref: https://www.elsevier.com/authors/author-services/research-data
 Ref: https://www.journals.elsevier.com/journal-of-monetary-economics
