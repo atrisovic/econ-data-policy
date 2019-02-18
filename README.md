@@ -10,7 +10,7 @@ The ranking list of journals was obtained from: https://ideas.repec.org/top/top.
 
 "In an effort to promote consistent standards and requirements among general-interest journals in the field of economics, the Quarterly Journal of Economics has adopted the American Economic Review data availability policy. We are grateful to the editors of the American Economic Review for their leadership in constructing this policy. 
 
-[...] 
+It is the policy of the Quarterly Journal of Economics to publish papers only if the data used in the analysis are clearly and precisely documented and are readily available to any researcher for purposes of replication. Authors of accepted papers that contain empirical work, simulations, or experimental work must provide to the QJE , prior to publication, the data, programs, and other details of the computations sufficient to permit replication. These will be posted on a data repository linked to the QJE website. Submissions should include a cover letter in which the Editors are notified if the data used in a paper are proprietary or if, for some other reason, the requirements above cannot be met.
 
 After acceptance, authors are expected to post their data, programs, and sufficient details to permit replication, to the QJE Dataverse repository. Complete instructions will be provided to the author with the acceptance letter."
 
@@ -118,7 +118,7 @@ Ref: http://rfssfs.org/voluntary-datacode-sharing-process/
 
 ...
 
-** Research data**
+**Research data**
 
 This journal encourages and enables you to share data that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project.
 
