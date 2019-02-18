@@ -293,6 +293,7 @@ Elsevier recommends data sharing but there is no mandatory requirement for this 
 "This journal encourages and enables you to share data that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project." Publisher highlights ways to make data available, including linking in metadata to another repository, using Mendeley Data, creating a "Data Brief" (a data paper), or adding a data statement.
 
 https://www.elsevier.com/journals/journal-of-economic-theory/0022-0531/guide-for-authors
+
 **5 years ago: NO policy**
 
 ## 29. Economic Policy, CEPR; CES; MSH
@@ -321,21 +322,24 @@ Data Availability Statement
 Authors must include a statement on the title page of the manuscript in the author affiliations footnote indicating data availability, providing a persistent (preferably DOI) link to the data in a repository. If the JHR granted a waiver, add a waiver statement describing why the data are not available and whether they can be obtained through any means."
 
 Ref: https://uwpress.wisc.edu/journals/journals/jhr_replication.html
-**5 years ago: shady policy**
 
-## World Bank Economic Review
+**5 years ago: policy exissts **
+
+##  31. World Bank Economic Review
 
 "The World Bank Economic Review **requires that accepted papers include sufficient information on data sources and methods** that work can be replicated by other researchers. This requirement is normally met through online posting on the journal website of a file that includes archival summary, data and relevant computational files. If data are proprietary or the requirement otherwise cannot be met, this should be noted in a cover letter to the editor on submission."
 
 Ref: https://academic.oup.com/wber/pages/Author_Guidelines
 
-## American Journal of Political Science
+## 32. American Journal of Political Science
 
 "The corresponding author of a manuscript that is accepted for publication in the American Journal of Political Science must provide replication materials that are sufficient to enable interested researchers to reproduce all of the analytic results that are reported in the text and supporting materials."
 
+"All replication files must be stored in a Dataset within the AJPS Dataverse, on the Harvard Dataverse Network. Note that authors also can make their replication files available elsewhere (e.g., their personal website, other data repositories, etc.) as long as all of the necessary files are included in the Dataset on the AJPS Dataverse."
+
 Ref: [https://ajps.org/ajps-replication-policy/](https://ajps.org/ajps-replication-policy/)
 
-## International Economic Review
+## 33. International Economic Review
 
 "To promote consistent standards and requirements among general-interest journals in the field of economics, the International Economic Review has adopted the AER data availability policy. We are grateful to the editors of the American Economic Review for constructing this policy.
 
@@ -345,7 +349,7 @@ It is the policy of the IER to publish papers only if the data used in the analy
 
 After acceptance, authors are expected to send their data, programs, and sufficient details to permit replication, in electronic form, to the IER office." 
 
-REf: https://economics.sas.upenn.edu/ier/submissions/data-availability-policy
+Ref: https://economics.sas.upenn.edu/ier/submissions/data-availability-policy
 
 **5 years ago: weaker version of AER policy, but no replication files can be found**
 
