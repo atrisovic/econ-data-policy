@@ -237,7 +237,10 @@ Below are a number of ways in which you can associate data with your article or 
 Ref: https://www.elsevier.com/wps/find/journaldescription.cws_home/600126?generatepdf=true
 
 ## 28. Journal of Economic Theory, Elsevier
+Elsevier recommends data sharing but there is no mandatory requirement for this journal.
+"This journal encourages and enables you to share data that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project." Publisher highlights ways to make data available, including linking in metadata to another repository, using Mendeley Data, creating a "Data Brief" (a data paper), or adding a data statement.
 
+https://www.elsevier.com/journals/journal-of-economic-theory/0022-0531/guide-for-authors
 **5 years ago: NO policy**
 
 ## 29. Economic Policy, CEPR; CES; MSH
@@ -294,17 +297,43 @@ REf: https://economics.sas.upenn.edu/ier/submissions/data-availability-policy
 
 **5 years ago: weaker version of AER policy, but no replication files can be found**
 
-## Review of Economic Dyanmics
+## Review of Economic Dyanmics, Society for Economics Dynamics journal
+
+"Starting from January 1, 2008, the Review of Economic Dynamics implements a new policy regarding the availability of data and computer code for published papers.
+
+Authors of accepted papers are required, before final acceptance, to provide to RED the data and computer code used in generating the results of the paper. This material will be posted on the journal’s web site and should be sufficient to enable other researchers to replicate the results of the paper.
+
+For papers that use empirical data, authors have to provide the final data sets used to obtain the empirical results of the paper, as well as the computer code(s) used to manipulate the data set. A readme.txt file should be included describing how the program(s) can be run. If the final data set was created from other sources, a description of how the final data set was created from the previous sources is also required. This description should be sufficiently detailed to allow other researchers to replicate the construction of the final data set.
+
+For papers that contain numerical results authors have to provide the final programs that generate the results in the paper, plus a readme.txt file describing how the programs can be run, which program generates what results, etc. The results used for the summary statistics and/or graphs should be included."
+2019: Strong policy
+Ref: https://www.economicdynamics.org/availability-of-data-and-computer-code-for-published-papers/
 
 **5 years ago: nearly complete archive recently: http://www.economicdynamics.org/RED15.htm**
 
-## Journal of Applied Econometrics no
+## Journal of Applied Econometrics, Wiley
+
+"JAE Data Archive: Authors of accepted papers are required to deposit in electronic form a complete set of data used onto the Journal's Data Archive, unless they are confidential. In cases where there are restrictions on the dissemination of the data, the responsibility of obtaining the required permission to use the data rests with the interested investigator and not with the author.
+
+Authors are also encouraged to provide whatever other material is needed to ensure that their results can be replicated without excessive difficulty. This might include computer programs or technical appendices that are not part of the paper itself."
+
+Ref: https://onlinelibrary.wiley.com/page/journal/10991255/homepage/forauthors.html
 
 **5 years ago: strict policy, available at http://econ.queensu.ca/jae/**
 
-## Theoretical Economics 
+## Theoretical Economics, Econometric Society journal
 
-## Games and Economic Behavior
+No data policy 
+
+Ref: https://econtheory.org/policies.php
+
+## Games and Economic Behavior, Elsevier
+
+Elsevier recommends data sharing, but there is no requirement for this journal. 
+"This journal encourages and enables you to share data that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project." Publisher highlights ways to make data available, including linking in metadata to another repository, using Mendeley Data, creating a "Data Brief" (a data paper), or adding a data statement.
+
+Ref: https://www.elsevier.com/journals/games-and-economic-behavior/0899-8256/guide-for-authors
+
 
 # Other resources
 
