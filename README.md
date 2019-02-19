@@ -385,6 +385,8 @@ No data policy
 
 Ref: https://econtheory.org/policies.php
 
+**5 years ago: NO policy or archive**
+
 ## 37. Games and Economic Behavior, Elsevier
 
 Elsevier recommends data sharing, but there is no requirement for this journal. 
@@ -392,6 +394,7 @@ Elsevier recommends data sharing, but there is no requirement for this journal.
 
 Ref: https://www.elsevier.com/journals/games-and-economic-behavior/0899-8256/guide-for-authors
 
+**5 years ago: NO policy or archive**
 
 # Other resources
 
