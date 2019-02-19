@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atrisovic/econ-data-policy/master?filepath=econ-data-policy-results.ipynb)
+
 # Economics Data Policies
 
 Data policies in top economics journals and their focus on result replication/reproducibility.
