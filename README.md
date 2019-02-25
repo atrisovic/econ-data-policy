@@ -2,11 +2,42 @@
 
 # Economics Data Policies
 
-Data policies in top economics journals and their focus on result replication/reproducibility.
+Data policies in top economics journals and their focus on result replication/reproducibility. The ranking list of journals was obtained from: https://ideas.repec.org/top/top.journals.all.html. The information of data policies from 5 years ago were copied from: https://www.econjobrumors.com/topic/master-list-of-journal-data-archives-and-policies
 
-## Overview
+Contributors: Nora Mattern, Ana Trisovic
 
-The ranking list of journals was obtained from: https://ideas.repec.org/top/top.journals.all.html
+## Findings
+
+We classified data policies into three groups according to their strictness. Those groups are: 'require', 'recommend' and 'none' (or no policy). We find that about 65% of the journal has a strict data policy, and 27% of them encourage the authors to share research materials.
+
+![](policy-type.png)
+
+Most of the journals have their own archive ('journal website') where the research materials should be shared. Other modes of sharing are data repositories, or in the case of Elsevier, they provide a list of sharing options (multiple modes).
+
+![](sharing-mode.png)
+
+A high number of top journals adopt and credit the AEA policy model.
+
+![](adopt-aea.png)
+
+All the journals that adopt AEA policy model have a strict policy (require materials upon publication).
+
+![](adopt-aea-type.png)
+
+The journals who adopt AEA model, typically have their own sharing archive.
+
+![](adopt-aea-mode.png)
+
+Pie chart showing the difference between the journals that had data policies 5 years ago and today.
+
+![](5-y-ago-and-today-pie.png)
+
+The tread of going toward more shared and open results is apparent.
+
+![](policy_5y_ago_and_today)
+
+
+# Survey data
 
 ## 1. The Quarterly Journal of Economics, Oxford University Press
 
@@ -402,4 +433,4 @@ http://replication.uni-goettingen.de/wiki/index.php/Journal_publication_policies
 
 http://www.edawax.de/wp-content/uploads/2016/02/Data-Policies_mit-Links.pdf
 
-All information of data policy survey from 5 years ago on this page were copied from: https://www.econjobrumors.com/topic/master-list-of-journal-data-archives-and-policies
+
