@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/167615626.svg)](https://zenodo.org/badge/latestdoi/167615626)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atrisovic/econ-data-policy/master?filepath=econ-data-policy-results.ipynb)
 
 # Economics Journals and Data Policies
