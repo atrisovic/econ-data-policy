@@ -4,7 +4,7 @@
 
 A growing number of journals are adopting data sharing policies to spport replication and reproducibility in research. This study investigated the existence of these policies in top economics journal and was conducted in February 2019. 
 
-We examined a total of 37 economics journals for their data policies. We formed our sample by including the journals that appeared in a journal ranking by IDEAS/RePEc Aggregate Rankings for Journals [https://ideas.repec.org/top/top.journals.all.html ] and the journals that appeared in an informal analysis of data policies posted 5 years ago on an Economics blog [https://www.econjobrumors.com/topic/master-list-of-journal-data-archives-and-policies]. 
+We examined a total of 37 economics journals for their data policies. We formed our sample by including the journals that appeared in a journal ranking by [IDEAS/RePEc Aggregate Rankings for Journals](https://ideas.repec.org/top/top.journals.all.html ) and the journals that appeared in an informal analysis of data policies posted [5 years ago on an Economics blog]( https://www.econjobrumors.com/topic/master-list-of-journal-data-archives-and-policies). 
 
 To locate the data policies, we began with a simple Google search of "Journal Name" AND data policy. We did a review of the journal website to determine whether the data policy may have been described using a different label (such as "replication policy"). 
 
@@ -20,7 +20,7 @@ For those journals that require or encourage data sharing, we reviewed the polic
 
 ![](img/sharing-mode.png)
 
-We found that a high percentage of economics journals based their policy on the American Economics Association's Data Availability Policy: https://www.aeaweb.org/journals/policies/data-availability-policy. This scholarly association's policy, then, is serving as a policy model for journals in the field.
+We found that a high percentage of economics journals based their policy on [the American Economics Association's Data Availability Policy](https://www.aeaweb.org/journals/policies/data-availability-policy). This scholarly association's policy, then, is serving as a policy model for journals in the field.
 
 ![](img/adopt-aea.png)
 
