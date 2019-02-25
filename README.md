@@ -1,42 +1,47 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atrisovic/econ-data-policy/master?filepath=econ-data-policy-results.ipynb)
 
-# Economics Data Policies
+# Economics Journals and Data Policies
 
-Data policies in top economics journals and their focus on result replication/reproducibility. The ranking list of journals was obtained from: https://ideas.repec.org/top/top.journals.all.html. The information of data policies from 5 years ago were copied from: https://www.econjobrumors.com/topic/master-list-of-journal-data-archives-and-policies
+A growing number of journals are adopting data sharing policies to spport replication and reproducibility in research. This study investigated the existence of these policies in top economics journal and was conducted in February 2019. 
 
-Contributors: Nora Mattern, Ana Trisovic
+We examined a total of 37 economics journals for their data policies. We formed our sample by including the journals that appeared in a journal ranking by IDEAS/RePEc Aggregate Rankings for Journals [https://ideas.repec.org/top/top.journals.all.html ] and the journals that appeared in an informal analysis of data policies posted 5 years ago on an Economics blog [https://www.econjobrumors.com/topic/master-list-of-journal-data-archives-and-policies]. 
+
+To locate the data policies, we began with a simple Google search of "Journal Name" AND data policy. We did a review of the journal website to determine whether the data policy may have been described using a different label (such as "replication policy"). 
+
+Contributors: Ana Trisovic and Eleanor Mattern
 
 ## Findings
 
-We classified data policies into three groups according to their strictness. Those groups are: 'require', 'recommend' and 'none' (or no policy). We find that about 65% of the journal has a strict data policy, and 27% of them encourage the authors to share research materials.
+We categorized the data policies into three broad categories: whether they have a policy that requires data sharing; whether they have a policy that recommends data sharing or whether they have no policy in place. We find that about 65% of the journals require data sharing, and 27% of them encourage the authors to share research materials.
 
 ![](img/policy-type.png)
 
-Most of the journals have their own archive ('journal website') where the research materials should be shared. Other modes of sharing are data repositories, or in the case of Elsevier, they provide a list of sharing options (multiple modes).
+For those journals that require or encourage data sharing, we reviewed the policies to understand the mode in which authors are expected to share their data. Most of the journals ask that authors submit their datasets to be shared on the journal website. A smaller number of journals ask authors to deposit their data in a specific data repository, such as Harvaard Dataverse. In the case of most Elsevier journals, authors were provided with multiple recommendations for sharing data ("multiple modes").
 
 ![](img/sharing-mode.png)
 
-A high number of top journals adopt and credit the AEA policy model.
+We found that a high percentage of economics journals based their policy on the American Economics Association's Data Availability Policy: https://www.aeaweb.org/journals/policies/data-availability-policy. This scholarly association's policy, then, is serving as a policy model for journals in the field.
 
 ![](img/adopt-aea.png)
 
-All the journals that adopt AEA policy model have a strict policy (require materials upon publication).
+All the journals that adopt AEA policy model have a strict policy in place that requires data to be shared upon publication.
 
 ![](img/adopt-aea-type.png)
 
-The journals who adopt AEA model, typically have their own sharing archive.
+The journals who adopt AEA model typically share data on the journal website.
 
 ![](img/adopt-aea-mode.png)
 
-Pie chart showing the difference between the journals that had data policies 5 years ago and today.
+This pie chart illustrates the difference the difference between the journals that had data policies 5 years ago and today.
 
 ![](img/5-y-ago-and-today-pie.png)
 
-The tread of going toward more shared and open results is apparent.
+The trend of going toward more shared and open results is apparent.
 
 <img src="img/policy_5y_ago_and_today.png" width="500"/>
 
-# Survey data
+# Data for Analysis
+Below is the list of journals investigated in this small study. We include the name of the journal and press; relevant policy language; a link to the policy; and a record from the informal analysis conducted 5 years ago. 
 
 ## 1. The Quarterly Journal of Economics, Oxford University Press
 
