@@ -1,38 +1,31 @@
-No,Policy type,5 years ago,Sharing mode,Adopt AEA
-1,Require,No,Data repository,Yes
-2,Require,Yes,Journal website,Yes
-3,Require,Yes,Journal website,Yes
-4,Require,Yes,Journal website,No
-5,Require,No,Journal website,Yes
-6,Recommend,NA,Journal website,No
-7,None,NA,NA,No
-8,Require,Yes,Journal website,No
-9,Recommend,No,NA,No
-10,Recommend,No,Multiple modes,No
-11,Require,No,Journal website,Yes
-12,Recommend,NA,Journal website,No
-13,Require,No,Unclear,No
-14,Require,Yes,Data repository,No
-15,Recommend,No,Multiple modes,No
-16,Require,Yes,Journal website,Yes
-17,Require,Yes,Journal website,Yes
-18,Recommend,No,Multiple modes,No
-19,Require,No,Journal website,No
-20,Require,NA,Journal website,No
-21,Require,NA,Journal website,Yes
-22,None,No,NA,No
-23,Require,Yes,Journal website,Yes
-24,Require,NA,Journal website,No
-25,Recommend,NA,Multiple modes,No
-26,Require,Yes,Journal website,No
-27,Recommend,NA,Multiple modes,No
-28,Recommend,No,Multiple modes,No
-29,Require,NA,Journal website,No
-30,Require,Yes,Data repository,No
-31,Require,NA,Journal website,No
-32,Require,NA,Data repository,No
-33,Require,Yes,Journal website,Yes
-34,Require,Yes,Journal website,No
-35,Require,Yes,Journal website,No
-36,None,No,NA,No
-37,Recommend,No,Multiple modes,No
+No	Name	Policy type	5 years ago	Sharing mode	Adopt AEA
+1	The Quarterly Journal of Economics, Oxford University Press	Require	No	Data repository	Yes
+2	American Economic Review, American Economic Associatione	Require	Yes	Data repository	Yes
+3	Journal of Political Economy, University of Chicago Press	Require	Yes	Journal website	Yes
+4	Econometrica, Econometric Society	Require	Yes	Journal website	No
+5	Journal of Financial Economics, Elsevier	Recommend	NA	Journal website	No
+6	Journal of Economic Literature, American Economic Association	Require	Yes	Data repository	Yes
+7	Journal of Finance, American Finance Association	Require	NA	Journal website	No
+8	Review of Economic Studies, Oxford University Press	Require	Yes	Journal website	No
+9	Journal of Monetary Economics, Elsevier	Recommend	NA	Multiple modes	No
+10	Journal of Economic Growth, Springer	Recommend	NA	Multiple modes	No
+11	Journal of Economic Perspectives, American Economic Association	Require	Yes	Data repository	Yes
+12	Journal of Econometrics, Elsevier	Recommend	Yes	Multiple modes	No
+13	Review of Financial Studies, Society for Financial Studies	Recommend	NA	Journal website	No
+14	The Review of Economics and Statistics, MIT Press	Require	Yes	Data repository	No
+15	Renewable and Sustainable Energy Reviews, Elsevier	Recommend	Yes	Multiple modes	No
+16	European Accounting Review, Taylor & Francis Journals	None	NA	NA	No
+17	American Economic Journal: Macroeconomics, American Economic Association	Require	Yes	Data repository	Yes
+18	Journal of International Economics, Elsevier	Recommend	Yes	Multiple modes	No
+19	Journal of Labor Economics, University of Chicago Press	Require	Yes	Journal website	Yes
+20	Journal of Public Economics, Elsevier	Recommend	Yes	Multiple modes	No
+21	Journal of Development Economics, Elsevier	Require	Yes	Multiple modes	No
+22	RAND Journal of Economics, RAND Corporation	None	No	NA	No
+23	Journal of Financial Intermediation, Elsevier	Recommend	Yes	Multiple modes	No
+24	American Economic Journal: Applied Economics, American Economic Association	Require	Yes	Journal website	Yes
+25	Journal of Banking & Finance, Elsevier	Recommend	Yes	Multiple modes	No
+26	Energy Policy, Elsevier	Recommend	Yes	Multiple modes	No
+27	Brookings Papers on Economic Activity, Economic Studies Program, The Brookings Institution	None	NA	NA	No
+28	Management Science, INFORMS	Require	NA	Journal website	Yes
+29	World Development, Elsevier	Recommend	Yes	Multiple modes	No
+30	European Economic Review, Elsevier	Recommend	Yes	Multiple modes	No
